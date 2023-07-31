@@ -10,7 +10,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/brandon barrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon barrera" height="30" width="40" /></a>
 <a href="https://discord.gg/brandonbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brandonbr" height="30" width="40" /></a>
-  <a href="mailto:bcbjpro036crak@gmail.com">Contact me by mail</a>
+  <a href="mailto:bcbjpro036crak@gmail.com"> 
+  
+  <img src="https://www.gstatic.com/images/icons/material/colored_icons/1x/gmail_logo_dark_32dp.png" alt="Gmail"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
