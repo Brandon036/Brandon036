@@ -8,11 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brandon barrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon barrera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brandon-barrera-26796722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon barrera" height="30" width="40" /></a>
 <a href="https://discord.gg/brandonbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brandonbr" height="30" width="40" /></a>
-  <a href="mailto:bcbjpro036crak@gmail.com"> 
-  
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/009/911/504/small/gmail-logotype-flat-illustration-free-vector.jpg" height="30" width="40" alt="Gmail"></a>
+  <a href="mailto:bcbjpro036crak@gmail.com" > 
+    <img align="center"  src="https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle-thumbnail.png" height="30" width="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
