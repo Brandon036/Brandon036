@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A passionate frontend and backend developer from Colombia</h3>
